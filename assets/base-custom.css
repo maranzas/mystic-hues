@@ -1,6 +1,13 @@
+/************************* HEADER ************************/
+
 /* Shopping Cart icon size */
 a.header__icon, a.header__icon--cart .icon {
     height: 2.5vh;
     width: 8vw;
     margin: auto;
+}
+
+/* Header Menu Padding */
+a.header__menu-item {
+    padding: 3vw;
 }

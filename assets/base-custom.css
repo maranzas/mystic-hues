@@ -11,3 +11,8 @@ a.header__icon, a.header__icon--cart .icon {
 a.header__menu-item {
     padding: 3vw;
 }
+
+/* Change Search and Shopping Cart icon color */
+summary.header__icon {
+    color: rgb(var(--color-base-accent-1));
+}

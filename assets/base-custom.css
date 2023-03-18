@@ -1,5 +1,5 @@
 /* Shopping Cart icon size */
-svg.header__icon--cart .icon {
+a.header__icon--cart .icon {
     height: 2.3vh;
     width: 8vw;
 }

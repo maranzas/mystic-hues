@@ -1,6 +1,6 @@
 /* Shopping Cart icon size */
 a.header__icon, a.header__icon--cart .icon {
-    height: 2.3vh;
+    height: 2.5vh;
     width: 8vw;
-    padding: 0;
+    margin: auto;
 }
